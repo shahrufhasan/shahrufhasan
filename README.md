@@ -5,14 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=shahrufhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahrufhasan&show_icons=true&theme=radical" alt="Shahruf's GitHub Stats" />
-</p>
-
-
-
-
 
 ---
 
@@ -70,6 +62,12 @@
 </p>
 
 ---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahrufhasan&show_icons=true&theme=radical" alt="Shahruf's GitHub Stats" />
+</p>
+
 
 <!-- GitHub Streak -->
 <p align="center">
