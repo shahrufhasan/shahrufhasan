@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=shahrufhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
 ---
 
 ### 🌱 Currently Learning  
@@ -63,14 +62,30 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### [Study-Mate](https://github.com/shahrufhasan/Study-Mate)  
+A web application designed to help students organize their study schedules, track progress, and collaborate effectively. Built with modern web technologies for a smooth and responsive experience.
+
+### [Green Nest](https://green-nest-94b57.web.app/)  
+A live web app showcasing sustainable and eco-friendly products, featuring intuitive UI and dynamic content. Demonstrates full-stack development and deployment skills.
+
+### [Home IO Apps Library](https://github.com/shahrufhasan/Home-IO-Apps-Library)  
+A collection of home automation applications to simplify daily tasks, built with a focus on usability, functionality, and clean design.
+
+---
+
+### ⭐ Fun Fact  
+I love building modern, responsive, and visually appealing web applications that users enjoy interacting with!
+
+---
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahrufhasan&show_icons=true&theme=radical" alt="Shahruf's GitHub Stats" />
 </p>
 
-
-
-
-
-### ⭐ Fun Fact  
-I love building modern, responsive, and visually appealing web applications that users enjoy interacting with!
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrufhasan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
