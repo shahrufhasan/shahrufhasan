@@ -71,8 +71,9 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrufhasan&theme=radical" alt="Shahruf's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shahrufhasan&theme=radical" alt="Shahruf's GitHub Streak" />
 </p>
+
 
 ### ⭐ Fun Fact  
 I love building modern, responsive, and visually appealing web applications that users enjoy interacting with!
