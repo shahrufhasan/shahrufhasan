@@ -1,4 +1,30 @@
-### 🧩 Skills Breakdown
+<h1 align="center">Hi 👋, I'm Shahruf Hasan</h1>
+<h3 align="center">A passionate Frontend & MERN Stack Developer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahrufhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 🌱 Currently Learning  
+**MERN Stack** from a Bootcamp
+
+### 📫 Reach Me  
+**Email:** shahrufhassan9988@gmail.com
+
+---
+
+### 🤝 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/shahrufhasan/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🧩 Skills Breakdown
 
 ---
 
@@ -20,6 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 </p>
 
@@ -31,7 +58,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
 </p>
 
 ---
@@ -44,8 +70,6 @@
 
 ---
 
-### 🔹 Other Skills  
-<p>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" />
-</p>
+### ⭐ Fun Fact  
+I love building modern, responsive, and user-friendly web experiences!
+
