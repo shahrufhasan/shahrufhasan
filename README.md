@@ -1,8 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shahruf Hasan</h1>
-<h3 align="center">A passionate Frontend & MERN Stack Developer from Bangladesh</h3>
+<h3 align="center">A Full Stack Web Developer passionate about building modern, responsive, and user-friendly web applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahrufhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahrufhasan&show_icons=true&theme=radical" alt="Shahruf's GitHub Stats" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrufhasan&theme=radical" alt="Shahruf's GitHub Streak" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrufhasan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -26,8 +41,6 @@
 
 ## 🧩 Skills Breakdown
 
----
-
 ### 🔹 Frontend Development  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
@@ -39,8 +52,6 @@
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" width="40" />
 </p>
 
----
-
 ### 🔹 Backend Development  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
@@ -50,8 +61,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 </p>
 
----
-
 ### 🔹 Tools & Platforms  
 <p>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
@@ -59,8 +68,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
 </p>
-
----
 
 ### 🔹 UI / UX & Design  
 <p>
@@ -71,5 +78,4 @@
 ---
 
 ### ⭐ Fun Fact  
-I love building modern, responsive, and user-friendly web experiences!
-
+I love building modern, responsive, and visually appealing web applications that users enjoy interacting with!
