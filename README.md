@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.ibb.co/93hXrfQH/Banner.png" alt="Shahruf Hasan Banner" width="100%" />
+</p>
+
+---
+
 ### 🌱 Currently Learning  
 **MERN Stack** from a Bootcamp
 
