@@ -10,15 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shahrufhasan&show_icons=true&theme=radical" alt="Shahruf's GitHub Stats" />
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrufhasan&theme=radical" alt="Shahruf's GitHub Streak" />
-</p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrufhasan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+
 
 ---
 
@@ -76,6 +70,11 @@
 </p>
 
 ---
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahrufhasan&theme=radical" alt="Shahruf's GitHub Streak" />
+</p>
 
 ### ⭐ Fun Fact  
 I love building modern, responsive, and visually appealing web applications that users enjoy interacting with!
