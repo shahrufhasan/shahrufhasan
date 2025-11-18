@@ -69,10 +69,7 @@
 </p>
 
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahrufhasan&theme=radical" alt="Shahruf's GitHub Streak" />
-</p>
+
 
 
 ### ⭐ Fun Fact  
