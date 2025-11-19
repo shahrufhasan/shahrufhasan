@@ -122,9 +122,7 @@ A collection of home automation applications focused on usability, functionality
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=shahrufhasan.shahrufhasan" alt="Profile Visits">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrufhasan&label=Profile%20views&color=0e75b6&style=flat" alt="shahrufhasan" /> </p>
 
 
 ---
