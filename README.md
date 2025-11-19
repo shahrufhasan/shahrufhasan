@@ -82,7 +82,7 @@ I am a passionate Full Stack Web Developer from Bangladesh with a strong design 
 ### [Study-Mate](https://github.com/shahrufhasan/Study-Mate)  
 A web application designed to help students organize their study schedules, track progress, and collaborate effectively.
 
-![Study-Mate Screenshot](https://i.ibb.co/KcwCYP1W/bespoke-torte-110e0f-netlify-app-1.png)
+![Study-Mate Screenshot]([https://i.ibb.co/KcwCYP1W/bespoke-torte-110e0f-netlify-app-1.png](https://i.ibb.co/KcwCYP1W/bespoke-torte-110e0f-netlify-app-1.png))
 
 ---
 
