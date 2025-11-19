@@ -123,9 +123,7 @@ A collection of home automation applications focused on usability, functionality
 ---
 
 <p align="center">
-  <a href="https://github.com/shahrufhasan">
-    <img src="https://img.shields.io/github/followers/shahrufhasan?label=Follow&style=social" alt="Follow on GitHub">
-  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=shahrufhasan.shahrufhasan" alt="Profile Visits">
 </p>
 
 
