@@ -8,13 +8,9 @@
 <h3 align="center">Full Stack Web Developer | MERN Stack | Frontend & Backend Enthusiast</h3>
 
 ---
-<!-- GitHub Follow Button -->
-<p align="center">
-  <a href="https://github.com/shahrufhasan">
-    <img src="https://img.shields.io/github/followers/shahrufhasan?label=Follow&style=social" alt="Follow on GitHub">
-  </a>
-</p>
----
+
+
+
 
 ## About Me
 I am a passionate Full Stack Web Developer from Bangladesh with a strong design sense. I love building **modern, responsive, and user-friendly web applications**.  
