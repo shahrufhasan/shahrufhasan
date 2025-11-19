@@ -1,32 +1,24 @@
-<h1 align="center">Hi 👋, I'm Shahruf Hasan</h1>
-<h3 align="center">A Full Stack Web Developer passionate about building modern, responsive, and user-friendly web applications</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahrufhasan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
+<!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/93hXrfQH/Banner.png" alt="Shahruf Hasan Banner" width="100%" />
 </p>
 
----
-
-### 🌱 Currently Learning  
-**MERN Stack** from a Bootcamp
-
-### 📫 Reach Me  
-**Email:** shahrufhassan9988@gmail.com
+<!-- Name & Designation -->
+<h1 align="center">Hi 👋, I'm Shahruf Hasan</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack | Frontend & Backend Enthusiast</h3>
 
 ---
 
-### 🤝 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/shahrufhasan/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+## About Me
+I am a passionate Full Stack Web Developer from Bangladesh with a strong design sense. I love building **modern, responsive, and user-friendly web applications**. My goal is to continually learn new technologies and contribute to meaningful projects.
+
+---
+
+## 📝 Recent Activity
+- 🌱 Learning more about **web development technologies**  
+- 💼 Looking for a **job as a beginner web developer**  
+- 💻 Working on **some of my friends’ websites**  
+- ⚡ Improving my skills in **frontend and backend development**  
 
 ---
 
@@ -68,30 +60,41 @@
 
 ---
 
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/shahrufhasan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🤝 Contributions & Learning
+- 🏫 Helped **students in the bootcamp** to learn more code  
+- 💻 Assisted **friends to build their websites**  
+- 🌱 Willing to learn **Python and Django**  
+- 💡 Always exploring new **web technologies and best practices**  
+
+---
+
 ## 🚀 Featured Projects
 
 ### [Study-Mate](https://github.com/shahrufhasan/Study-Mate)  
-A web application designed to help students organize their study schedules, track progress, and collaborate effectively. Built with modern web technologies for a smooth and responsive experience.
+A web application designed to help students organize their study schedules, track progress, and collaborate effectively.
 
 ### [Green Nest](https://green-nest-94b57.web.app/)  
-A live web app showcasing sustainable and eco-friendly products, featuring intuitive UI and dynamic content. Demonstrates full-stack development and deployment skills.
+A live web app showcasing sustainable and eco-friendly products, with an intuitive UI and dynamic content.
 
 ### [Home IO Apps Library](https://github.com/shahrufhasan/Home-IO-Apps-Library)  
-A collection of home automation applications to simplify daily tasks, built with a focus on usability, functionality, and clean design.
+A collection of home automation applications focused on usability, functionality, and clean design.
 
 ---
 
-### ⭐ Fun Fact  
-I love building modern, responsive, and visually appealing web applications that users enjoy interacting with!
-
----
-
-<!-- GitHub Stats -->
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahrufhasan&show_icons=true&theme=radical" alt="Shahruf's GitHub Stats" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrufhasan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
