@@ -10,7 +10,7 @@
 ---
 
 ## About Me
-I am a passionate Full Stack Web Developer from Bangladesh with a strong design sense. I love building **modern, responsive, and user-friendly web applications**. My goal is to continually learn new technologies and contribute to meaningful projects.
+I am a passionate Full Stack Web Developer from Bangladesh with a strong design sense. I love building **modern, responsive, and user-friendly web applications**.  
 
 ---
 
@@ -77,27 +77,13 @@ I am a passionate Full Stack Web Developer from Bangladesh with a strong design 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Click to view)
 
-### [Study-Mate](https://github.com/shahrufhasan/Study-Mate)  
-A web application designed to help students organize their study schedules, track progress, and collaborate effectively.
+[![Study-Mate](https://i.ibb.co/KcwCYP1W/bespoke-torte-110e0f-netlify-app-1.png)](https://github.com/shahrufhasan/Study-Mate)  
+[![Green Nest](https://i.ibb.co/MDsbMsNw/peaceful-manatee-bc73e5-netlify-app.png)](https://green-nest-94b57.web.app/)  
+[![Home IO Apps Library](https://i.ibb.co/fzpLgmgr/funny-pastelito-5c55d3-netlify-app.png)](https://github.com/shahrufhasan/Home-IO-Apps-Library)  
 
-![Study-Mate Screenshot](https://i.ibb.co/KcwCYP1W/bespoke-torte-110e0f-netlify-app-1.png)
-
----
-
-### [Green Nest](https://green-nest-94b57.web.app/)  
-A live web app showcasing sustainable and eco-friendly products, with an intuitive UI and dynamic content.
-
-![Green Nest Screenshot](https://i.ibb.co/MDsbMsNw/peaceful-manatee-bc73e5-netlify-app.png)
-
----
-
-### [Home IO Apps Library](https://github.com/shahrufhasan/Home-IO-Apps-Library)  
-A collection of home automation applications focused on usability, functionality, and clean design.
-
-![Home IO Apps Library Screenshot](https://i.ibb.co/fzpLgmgr/funny-pastelito-5c55d3-netlify-app.png)
-
+> Click on the images to view the live projects or GitHub repositories.  
 
 ---
 
