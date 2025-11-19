@@ -137,7 +137,7 @@ A collection of home automation applications focused on usability, functionality
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Contributions:</b>
 
-![Snake Grid](https://raw.githubusercontent.com/shahrufhasan/shahrufhasan/output/grid.svg)
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 
 
