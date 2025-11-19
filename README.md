@@ -77,13 +77,15 @@ I am a passionate Full Stack Web Developer from Bangladesh with a strong design 
 
 ---
 
-## 🚀 Featured Projects (Click to view)
+## 🚀 Featured Projects (Click to View)
 
-[![Study-Mate](https://i.ibb.co/KcwCYP1W/bespoke-torte-110e0f-netlify-app-1.png)](https://github.com/shahrufhasan/Study-Mate)  
-[![Green Nest](https://i.ibb.co/MDsbMsNw/peaceful-manatee-bc73e5-netlify-app.png)](https://green-nest-94b57.web.app/)  
-[![Home IO Apps Library](https://i.ibb.co/fzpLgmgr/funny-pastelito-5c55d3-netlify-app.png)](https://github.com/shahrufhasan/Home-IO-Apps-Library)  
+<p align="center">
+  [![Study-Mate](https://i.ibb.co/KcwCYP1W/bespoke-torte-110e0f-netlify-app-1.png)](https://github.com/shahrufhasan/Study-Mate)
+  [![Green Nest](https://i.ibb.co/MDsbMsNw/peaceful-manatee-bc73e5-netlify-app.png)](https://green-nest-94b57.web.app/)
+  [![Home IO Apps Library](https://i.ibb.co/fzpLgmgr/funny-pastelito-5c55d3-netlify-app.png)](https://github.com/shahrufhasan/Home-IO-Apps-Library)
+</p>
 
-> Click on the images to view the live projects or GitHub repositories.  
+> Click on the images to view the live projects or GitHub repositories.
 
 ---
 
@@ -95,3 +97,4 @@ I am a passionate Full Stack Web Developer from Bangladesh with a strong design 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrufhasan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
