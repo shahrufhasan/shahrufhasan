@@ -83,7 +83,7 @@ I am a passionate Full Stack Web Developer from Bangladesh with a strong design 
 A web application designed to help students organize their study schedules, track progress, and collaborate effectively.
 
 <p align="center">
-  <img src="https://i.postimg.cc/d3crbTnK/bespoke-torte-110e0f-netlify-app-(1).png" alt="Study-Mate Screenshot" width="70%" />
+  <img src="https://i.postimg.cc/qMdxYWZZ/bespoke-torte-110e0f-netlify-app-(1).png" alt="Study-Mate Screenshot" width="70%" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ A web application designed to help students organize their study schedules, trac
 A live web app showcasing sustainable and eco-friendly products, with an intuitive UI and dynamic content.
 
 <p align="center">
-  <img src="https://i.postimg.cc/kgTN2GM0/peaceful-manatee-bc73e5-netlify-app.png" alt="Green Nest Screenshot" width="70%" />
+  <img src="https://i.postimg.cc/XvZ5XgDR/peaceful-manatee-bc73e5-netlify-app.png" alt="Green Nest Screenshot" width="70%" />
 </p>
 
 ---
@@ -101,8 +101,9 @@ A live web app showcasing sustainable and eco-friendly products, with an intuiti
 A collection of home automation applications focused on usability, functionality, and clean design.
 
 <p align="center">
-  <img src="https://i.postimg.cc/jj9zh17n/funny-pastelito-5c55d3-netlify-app.png" alt="Home IO Apps Library Screenshot" width="70%" />
+  <img src="https://i.postimg.cc/R0jHtnkL/funny-pastelito-5c55d3-netlify-app.png" alt="Home IO Apps Library Screenshot" width="70%" />
 </p>
+
 
 
 ---
