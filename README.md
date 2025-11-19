@@ -76,7 +76,6 @@ I am a passionate Full Stack Web Developer from Bangladesh with a strong design 
 - 💡 Always exploring new **web technologies and best practices**  
 
 ---
-
 ## 🚀 Featured Projects
 
 ### [Study-Mate](https://github.com/shahrufhasan/Study-Mate)  
@@ -98,15 +97,6 @@ A collection of home automation applications focused on usability, functionality
 
 ![Home IO Apps Library Screenshot](https://i.ibb.co/fzpLgmgr/funny-pastelito-5c55d3-netlify-app.png)
 
-
----
-
-### [Home IO Apps Library](https://github.com/shahrufhasan/Home-IO-Apps-Library)  
-A collection of home automation applications focused on usability, functionality, and clean design.
-
-<p align="center">
-  <img src="https://i.ibb.co/fzpLgmgr/funny-pastelito-5c55d3-netlify-app.png" alt="Home IO Apps Library Screenshot" width="70%" />
-</p>
 
 
 ---
