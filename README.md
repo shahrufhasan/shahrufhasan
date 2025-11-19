@@ -135,3 +135,6 @@ A collection of home automation applications focused on usability, functionality
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahrufhasan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+### GitHub Contributions:
+![Snake Grid](https://github.com/shahrufhasan/shahrufhasan/blob/output/grid.svg)
+
