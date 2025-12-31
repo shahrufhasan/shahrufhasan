@@ -64,21 +64,13 @@ I am a Full Stack Web Developer based in **Brooklyn, NYC** with 1+ year of exper
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma" />
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" title="Netlify" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" title="Vercel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/shahrufhasan/LocalChefBazar-Client">
-    <img src="https://my-github-stats-ruby.vercel.app/api/pin/?username=shahrufhasan&repo=LocalChefBazar-Client&theme=radical&hide_border=true" alt="LocalChefBazar" />
-  </a>
-  <a href="https://github.com/shahrufhasan/Home-Chepo">
-    <img src="https://my-github-stats-ruby.vercel.app/api/pin/?username=shahrufhasan&repo=Home-Chepo&theme=radical&hide_border=true" alt="Home-Chepo" />
-  </a>
-</p>
 
 ### 🍽️ LocalChefBazar - Full-Stack Marketplace
 
@@ -106,11 +98,7 @@ A modern e-commerce platform built with Next.js featuring SSR, admin dashboard w
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahrufhasan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -127,13 +115,12 @@ A modern e-commerce platform built with Next.js featuring SSR, admin dashboard w
 <p align="center">
   <img src="https://my-github-stats-ruby.vercel.app/api/top-langs/?username=shahrufhasan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahrufhasan/shahrufhasan/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahrufhasan&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
